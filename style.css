@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.container input{
+    width: 30px;
+    height: 30px;
+}
+.ainput{
+    margin-bottom: 10px;
+}
+.calc{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 10px;
+}
